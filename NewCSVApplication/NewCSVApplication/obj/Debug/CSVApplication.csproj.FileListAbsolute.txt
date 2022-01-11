@@ -1,0 +1,12 @@
+C:\Users\IBM_ADMIN\source\repos\CSVApplication\CSVApplication\obj\Debug\CSVApplication.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\source\repos\CSVApplication\CSVApplication\bin\Debug\CSVApplication.exe.config
+C:\Users\IBM_ADMIN\source\repos\CSVApplication\CSVApplication\bin\Debug\CSVApplication.exe
+C:\Users\IBM_ADMIN\source\repos\CSVApplication\CSVApplication\bin\Debug\CSVApplication.pdb
+C:\Users\IBM_ADMIN\source\repos\CSVApplication\CSVApplication\obj\Debug\CSVApplication.exe
+C:\Users\IBM_ADMIN\source\repos\CSVApplication\CSVApplication\obj\Debug\CSVApplication.pdb
+C:\Desktop\Projects\CSVApplication\CSVApplication\bin\Debug\CSVApplication.exe.config
+C:\Desktop\Projects\CSVApplication\CSVApplication\bin\Debug\CSVApplication.exe
+C:\Desktop\Projects\CSVApplication\CSVApplication\bin\Debug\CSVApplication.pdb
+C:\Desktop\Projects\CSVApplication\CSVApplication\obj\Debug\CSVApplication.exe
+C:\Desktop\Projects\CSVApplication\CSVApplication\obj\Debug\CSVApplication.pdb
+C:\Desktop\Projects\CSVApplication\CSVApplication\obj\Debug\CSVApplication.csprojAssemblyReference.cache
