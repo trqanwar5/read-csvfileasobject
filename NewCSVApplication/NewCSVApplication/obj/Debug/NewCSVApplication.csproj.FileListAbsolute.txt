@@ -1,6 +1,0 @@
-C:\Desktop\Projects\CSVApplication\NewCSVApplication\bin\Debug\CSVApplication.exe.config
-C:\Desktop\Projects\CSVApplication\NewCSVApplication\bin\Debug\CSVApplication.exe
-C:\Desktop\Projects\CSVApplication\NewCSVApplication\bin\Debug\CSVApplication.pdb
-C:\Desktop\Projects\CSVApplication\NewCSVApplication\obj\Debug\CSVApplication.exe
-C:\Desktop\Projects\CSVApplication\NewCSVApplication\obj\Debug\CSVApplication.pdb
-C:\Desktop\Projects\CSVApplication\NewCSVApplication\obj\Debug\NewCSVApplication.csproj.CoreCompileInputs.cache
